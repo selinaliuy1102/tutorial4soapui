@@ -1,0 +1,1 @@
+mvn com.smartbear.soapui:soapui-maven-plugin:5.1.2:test
