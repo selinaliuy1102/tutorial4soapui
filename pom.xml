@@ -33,7 +33,7 @@
                             <goal>test</goal>
                         </goals>
                         <configuration>
-                            <projectFile>p4soapui\JSON4SOAPUI-soapui-project.xml</projectFile>
+                            <projectFile>json4soapui-soapui-project</projectFile>
                             <projectProperties>
                                 <value>message=Hello World!</value>
                             </projectProperties>
