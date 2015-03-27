@@ -15,6 +15,10 @@ This tutorial will cover the following topics.
 + Integration of above tools(Maven + SoapUI + Jenkins, Maven + Seleniu + Jenkins etc)
 You will see an example showing how to use aggregated POM to organize multiple SoapUI projects in one maven project. 
 
+## Software Testing Lifecycle - my understanding
+![](https://github.com/selinaliuy1102/tutorial4soapui/master/software-testing-lifecycle.png)
+
+
 ## Testing is fun 
 :-)
 
