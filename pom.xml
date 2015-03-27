@@ -7,7 +7,7 @@
 
   <modules>
     <module>facebook</module>
-	<!--module>soapapi</module-->
+	<module>soapapi</module>
 	<module>restapi</module>
 	
   </modules>

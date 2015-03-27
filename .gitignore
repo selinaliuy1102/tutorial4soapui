@@ -1,2 +1,4 @@
 *.log
 *FAILED.txt
+target/**
+**/target/**
