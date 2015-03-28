@@ -10,6 +10,7 @@
   <groupId>com.yanliu.tutorial4soapui</groupId>
   <artifactId>selenium</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
   <name>selenium</name>
   <url>http://maven.apache.org</url>
   <properties>
